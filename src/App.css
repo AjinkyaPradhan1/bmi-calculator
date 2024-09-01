@@ -12,8 +12,8 @@
 .bmi-main{
   display: flex;
   flex-direction: column;
-  width: 60%;
-  height: 50%;
+  width: 70%;
+  height: 70%;
   background-color: white;
 }
 .header{
@@ -78,7 +78,7 @@ input[type="range"]{
   display: flex;
   flex-direction: column;
   background-color:#003399;
-  width: 60%;
+  width: 70%;
   height: 10%;
   align-items: center;
   font-family: "Nerko One", cursive;
